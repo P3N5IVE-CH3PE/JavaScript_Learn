@@ -1,5 +1,4 @@
 let favoriteBooks = [];
-  
    function addfavoriteBook(bookName){
        
         if (!bookName.includes("Great")){
