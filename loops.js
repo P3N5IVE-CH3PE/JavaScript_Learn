@@ -1,23 +1,24 @@
-let students = [/*...*/];
+let Students = [];
 
 
-for (let i = 0;i < students.length;i++){
+for (let i = 0;i < Students.length;i++){
 
-    greetStudents(students[i]);
+    greetStudents(Students[i]);
 
 
 }
 
-for (let students of students){
+for (let Students of Students){
     greetStudents(student);
 
 }
 
 
 
-while (students.length > 0 ) {
+while (Students.length > 0 ) {
 
-    let student = students.pop();
+    let student = Students.pop();
     greetStudent(student);
 
 }
+

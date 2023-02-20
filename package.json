@@ -1,0 +1,9 @@
+{
+  "name": "First_Yarn",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "repository": "git@github.com:P3N5IVE-CH3PE/JavaScript_Learn.git",
+  "author": "P3N5IVE_CH3PE <P3N5IVE_CH3PE@protonmail.com>",
+  "license": "MIT"
+}
